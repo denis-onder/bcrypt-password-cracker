@@ -5,3 +5,5 @@
 ---
 
 > Please provide your own JSON dictionary by placing a `passwords.json` file in the root directory.
+
+> The console will return a message if a match was found. Otherwise, it will return nothing.
