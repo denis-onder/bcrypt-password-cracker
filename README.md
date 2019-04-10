@@ -10,4 +10,4 @@
 
 ---
 
-> `passwords.json` is a dictionary acquired from the [SecLists repository](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
+> The provided `passwords.json` file is a dictionary acquired from the [SecLists repository.](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
