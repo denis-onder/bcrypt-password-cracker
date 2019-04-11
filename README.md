@@ -1,6 +1,12 @@
 # Bcrypt Password Cracker
 
-> A dictionary attack password cracking utility for Bcrypt hashes
+---
+
+> Run: `node main.js`
+
+---
+
+> A dictionary attack password cracking utility for Bcrypt hashes.
 
 ---
 
@@ -10,4 +16,4 @@
 
 ---
 
-> The provided `passwords.json` file is a dictionary acquired from the [SecLists repository.](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
+> The provided `passwords.json` file is a dictionary acquired from the [SecLists repository](https://github.com/danielmiessler/SecLists/tree/master/Passwords).
