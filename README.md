@@ -2,7 +2,7 @@
 
 ---
 
-> Run: `node main.js`
+> Run: `npm start`
 
 ---
 

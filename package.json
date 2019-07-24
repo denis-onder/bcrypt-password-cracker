@@ -4,19 +4,19 @@
   "description": "Password cracker",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DennisOnder/bcrypt-password-cracker.git"
+    "url": "git+https://github.com/denis-onder/bcrypt-password-cracker.git"
   },
-  "author": "Dennis Onder",
+  "author": "Denis Onder",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DennisOnder/bcrypt-password-cracker/issues"
+    "url": "https://github.com/denis-onder/bcrypt-password-cracker/issues"
   },
-  "homepage": "https://github.com/DennisOnder/bcrypt-password-cracker#readme",
+  "homepage": "https://github.com/denis-onder/bcrypt-password-cracker#readme",
   "dependencies": {
-    "bcrypt": "^3.0.5"
+    "bcrypt": "^3.0.6"
   }
 }
