@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/denis-onder/bcrypt-password-cracker#readme",
   "dependencies": {
-    "bcrypt": "^3.0.6"
+    "bcrypt": "^5.0.0"
   }
 }
